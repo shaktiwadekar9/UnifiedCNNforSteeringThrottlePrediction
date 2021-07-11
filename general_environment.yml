@@ -1,0 +1,32 @@
+name: UnifiedSteeringThrottle
+channels:
+  - pytorch
+  - plotly
+  - menpo
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - eventlet
+  - flask-socketio
+  - h5py
+  - hdf5
+  - imageio
+  - matplotlib
+  - numpy
+  - opencv3
+  - pandas 
+  - pillow
+  - plotly
+  - python=3.6.10
+  - python-engineio
+  - python-socketio
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip:
+    - pytorch-model-summary
+    - tensorboard
+    - tqdm
+
