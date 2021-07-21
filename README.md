@@ -17,6 +17,10 @@ This repo holds source code for [ICRA 2021 Workshop paper](https://linklab-uva.g
 4. [Acknowledgement](#4-Acknowledgement)
 
 
+https://www.youtube.com/watch?v=On0RhWkMLW4
+
+https://www.youtube.com/watch?v=ChaoakkGMgs
+
 ### 1. Installation: Create environment for training and testing
 
 **STEPS for installing packages required for running this code**
