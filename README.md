@@ -1,4 +1,4 @@
-This repo holds source code for [ICRA 2021 Workshop paper](https://linklab-uva.github.io/icra-autonomous-racing/contributed_papers/paper10.pdf)
+This repo holds source code for [ICRA 2021 Workshop paper : Towards End-to-End Deep Learning for Autonomous Racing : On Data Collection and a Unified Architecture for Steering and Throttle Prediction](https://linklab-uva.github.io/icra-autonomous-racing/contributed_papers/paper10.pdf)
 
 <div align="center">
 
